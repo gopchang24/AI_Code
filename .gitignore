@@ -1,9 +1,8 @@
 
 /Practice_DL/data
-/.ipynb_checkpoints
-/Practice_DL/.ipynb_checkpoints
-/Practice_ML/.ipynb_checkpoints
-
 /Practice_DL/.ipynb_checkpoints
 /Practice_ML/.ipynb_checkpoints
 /.ipynb_checkpoints
+/data
+/Practice_DL/images
+Practice_DL/model_basic.ckpt
