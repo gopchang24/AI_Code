@@ -1,11 +1,10 @@
 
-/Practice_DL/data
-/Practice_DL/.ipynb_checkpoints
-/Practice_ML/.ipynb_checkpoints
 /.ipynb_checkpoints
 /data
+
+/Practice_ML/.ipynb_checkpoints
+
+/Practice_DL/data
+/Practice_DL/.ipynb_checkpoints
 /Practice_DL/images
-Practice_DL/model_basic.ckpt
-Practice_DL/my_keras_model.h5
-Practice_DL/my_keras_model.keras
-Practice_DL/my_keras_weights.weights.h5
+/Practice_ML/data
