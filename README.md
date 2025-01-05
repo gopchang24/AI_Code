@@ -1,4 +1,4 @@
-# Artificial Intelligent Repository
+# Artificial Intelligent Code Repository
 
 * Practice_ML : Machine learning practice code 
 * Practice_DL : Deep learhing practice code
